@@ -10,7 +10,7 @@ void setup() {
   background(255);
   textSize(11);
   smooth();
-  frameRate(12);
+  frameRate(24);
   rings = new ArrayList<PShape>();
 }
 
